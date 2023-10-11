@@ -1,0 +1,7 @@
+Solicitação:
+Criar um codigo com classe File e Directory que possa identificar arquivos de uma determinada pasta/caminho que tenha mais dias de existencia do que um dia.
+Exemplo arquivoA.txt criado em 11/10/2022 e a data atual 11/10/2023, ou seja 365 dias. Esse arquivo será deletado. 
+
+Resolução: 
+Arquivo corrigido em erros de sintaxe (; na linha 1) e (class Program na linha 3)
+
