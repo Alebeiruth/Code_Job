@@ -2,7 +2,7 @@ namespace ConsoleApplication;
 
 class Program {
     static void Main(string[] args) {
-        string pastaProcura = @"\\profiles\usersprofiles$\tc829242\Desktop\pasta_Teste";
+        string pastaProcura = @"\\profiles\usersprofiles$\tc******\Desktop\pasta_Teste";
 
         if (Directory.Exists(pastaProcura)) {
 
