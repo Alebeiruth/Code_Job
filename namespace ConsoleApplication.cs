@@ -27,26 +27,4 @@ class Program {
             Console.WriteLine("Pasta não existe. ");
         }
     }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-    
 }
